@@ -10,7 +10,7 @@
 
 ## Struggles
 
-For this lab we couldn't use or configure some services as we wish to use, such as SQS FIFO, and publishing through CLI SNS Lambda function using the provided `LabRole` assinged to us with limited permissions and capabilties, So we had to make a new account from scratch and create new roles with extra or full permissions, our colleague Hasan created the account, then Farah&Rama helped him making the new roles and continued working on the whole code structure to make it functioning as required.
+For this lab we couldn't use or configure some services as we wish to use, such as SQS FIFO, and publishing through CLI SNS Lambda function using the provided `LabRole` assinged to us with limited permissions and capabilties, So we had to make a new account from scratch and create new roles with extra or full permissions, our colleague Hasan created the account, then Farah,Rama & Ehab helped him making the new roles and continued working on the whole code structure to make it functioning as required.
 
 ----
 
